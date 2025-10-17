@@ -16,9 +16,8 @@ Dream goals: 🌏 Build my own security company in Australia • 🚀 Become a t
 
 ## 🔗 Connect With Me
 
-- 🌐 [My Portfolio Website](https://your-website-link.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
-- 🐦 [Twitter/X](https://twitter.com/yourusername)
+- 🌐 https://matrixmanlabs.ct.ws
+- 💼 www.linkedin.com/in/matrix-man-164a7b386
 - 📧 Email:matrixman366@gmail.com
 
 ---
